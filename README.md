@@ -18,8 +18,8 @@ We use 3 different vocabulary lists:
 
 We use 7 different word embedding sets:
 1. [FastText Wikipedia & Common Crawl] (https://fasttext.cc/docs/en/crawl-vectors.html)
-2. [FastText Common Crawl](https://fasttext.cc/docs/en/english-vectors.html)
-3. [FastText OpenSubtitles (subs2vec)](https://github.com/jvparidon/subs2vec)
+2. [FastText Common Crawl] (https://fasttext.cc/docs/en/english-vectors.html)
+3. [FastText OpenSubtitles (subs2vec)] (https://github.com/jvparidon/subs2vec)
 4. [GloVe Common Crawl ((840B tokens, 2.2M vocab, cased, 300d vectors)] (https://nlp.stanford.edu/projects/glove/)
 5. [GloVe Twitter] (https://nlp.stanford.edu/projects/glove/)
 6. [Word2Vec Google News] (https://code.google.com/archive/p/word2vec/)
