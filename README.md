@@ -9,12 +9,12 @@ Code and validation datasets used to generate ValNorm scores from ValNorm: A New
 }
 
 ## ValNorm.py 
-To generate ValNorm scores use the WordEmbeddingFactualAssociation() function and provide the word embedding set (semanticModel) and the vocabulary list to test (vocabToTest). 
+To generate ValNorm scores use the WordEmbeddingFactualAssociation() function and provide the word embedding set (semanticModel) and the vocabulary list to test (vocabToTest). WordEmbeddingFactualAssociation() returns a table with each row containing a vocabulary word, the effect size (ValNorm score), and the p-value.
 
 We use 3 different vocabulary lists:
-1. Bellezza's Lexicon
-2. ANEW
-3. Warriner's Lexicon
+1. [Bellezza's Lexicon](https://github.com/autumntoney/ValNorm/blob/master/Validation%20Datasets/Bellezza_Lexicon.csv)
+2. [ANEW](https://github.com/autumntoney/ValNorm/blob/master/Validation%20Datasets/ANEW.csv)
+3. [Warriner's Lexicon](https://github.com/autumntoney/ValNorm/blob/master/Validation%20Datasets/Warriner_Lexicon.csv)
 
 We use 7 different word embedding sets:
 1. [FastText Wikipedia & Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
