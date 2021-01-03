@@ -16,6 +16,8 @@ We use 3 different vocabulary lists:
 2. [ANEW](https://github.com/autumntoney/ValNorm/blob/master/Validation%20Datasets/ANEW.csv)
 3. [Warriner's Lexicon](https://github.com/autumntoney/ValNorm/blob/master/Validation%20Datasets/Warriner_Lexicon.csv)
 
+The non-English vocabulary lists are located in the [non-English Validation Datasets](https://github.com/autumntoney/ValNorm/tree/master/non-English%20Validation%20Datasets) folder
+
 We use 7 different word embedding sets:
 1. [FastText Wikipedia & Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
 2. [FastText Common Crawl](https://fasttext.cc/docs/en/english-vectors.html)
